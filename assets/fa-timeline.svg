@@ -1,0 +1,20 @@
+<svg viewBox="0 0 960 380" xmlns="http://www.w3.org/2000/svg" font-family="'Hanken Grotesk',system-ui,sans-serif">
+  <text x="40" y="44" fill="#1B2A4A" font-size="17" font-weight="700">Senza invoice trading</text>
+  <text x="60" y="78" fill="#5C6068" font-size="12.5">Giorno 0 · fattura emessa</text>
+  <text x="900" y="78" text-anchor="end" fill="#5C6068" font-size="12.5">Giorno 90 · incasso</text>
+  <line x1="60" y1="94" x2="900" y2="94" stroke="#DBD4C6" stroke-width="2"/>
+  <circle cx="60" cy="94" r="7" fill="#1B2A4A"/><circle cx="900" cy="94" r="7" fill="#1B2A4A"/>
+  <rect x="60" y="106" width="840" height="22" rx="4" fill="#ECE6DA"/>
+  <text x="480" y="122" text-anchor="middle" fill="#7A7E86" font-size="13" font-weight="600">90 giorni senza liquidità · cassa immobilizzata</text>
+  <line x1="40" y1="180" x2="920" y2="180" stroke="#E7E1D5" stroke-width="1"/>
+  <text x="40" y="226" fill="#9C7A3C" font-size="17" font-weight="700">Con invoice trading</text>
+  <text x="60" y="260" fill="#5C6068" font-size="12.5">Giorno 0</text>
+  <text x="150" y="260" fill="#9C7A3C" font-size="12.5" font-weight="700">≈ Giorno 2 · anticipo 90%</text>
+  <text x="900" y="260" text-anchor="end" fill="#5C6068" font-size="12.5">Giorno 90 · saldo</text>
+  <line x1="60" y1="276" x2="900" y2="276" stroke="#DBD4C6" stroke-width="2"/>
+  <circle cx="60" cy="276" r="7" fill="#9C7A3C"/><circle cx="140" cy="276" r="7" fill="#9C7A3C"/><circle cx="900" cy="276" r="7" fill="#1B2A4A"/>
+  <rect x="60" y="288" width="80" height="22" rx="4" fill="#9C7A3C"/>
+  <rect x="140" y="288" width="760" height="22" rx="4" fill="#F3EFE8" stroke="#BB9A5C" stroke-width="1"/>
+  <text x="520" y="304" text-anchor="middle" fill="#9C7A3C" font-size="13" font-weight="600">liquidità già disponibile · puoi investire e crescere</text>
+  <text x="40" y="352" fill="#15181E" font-size="14">Stesso credito, stessa scadenza — ma la cassa arriva <tspan fill="#9C7A3C" font-weight="700">circa 88 giorni prima</tspan>.</text>
+</svg>
