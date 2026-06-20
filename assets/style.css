@@ -5,6 +5,7 @@
    ============================================================ */
 
 @import url('https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Hanken+Grotesk:wght@400;500;600;700&display=swap');
+@import url('logo.css');
 
 :root{
   --paper:#FBFAF8; --paper-2:#F3EFE8; --paper-3:#ECE6DA;
@@ -227,3 +228,10 @@ section{padding-block:clamp(64px,9vw,120px)}
 .panel-navy .feat-list li{color:#D9DEE8}
 .panel-navy .feat-list li strong{color:#fff}
 .cta-band .feat-list li{color:#D9DEE8}
+
+/* fix: testo delle card (sfondo bianco) dentro i pannelli navy */
+.panel-navy .card h3{color:var(--navy)}
+.panel-navy .card p{color:var(--muted)}
+.panel-navy .card .link-brass{color:var(--navy)}
+
+.panel-navy .step h4{color:var(--paper)}
