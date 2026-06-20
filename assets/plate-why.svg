@@ -1,0 +1,9 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#101B30"/>
+  <rect x="150" y="180" width="500" height="240" rx="6" fill="none" stroke="#BB9A5C" stroke-width="2"/>
+  <rect x="166" y="196" width="468" height="208" rx="3" fill="none" stroke="#BB9A5C" stroke-width="1" opacity="0.5"/>
+  <text x="400" y="290" text-anchor="middle" font-family="Spectral,serif" font-size="42" fill="#fff" letter-spacing="2">BRAND UP</text>
+  <text x="400" y="335" text-anchor="middle" font-family="Hanken Grotesk,sans-serif" font-size="15" fill="#BB9A5C" letter-spacing="8">CONSULTING &#183; LONDON</text>
+  <line x1="330" y1="360" x2="470" y2="360" stroke="#BB9A5C" stroke-width="1"/>
+  <text x="400" y="510" text-anchor="middle" font-family="Hanken Grotesk,sans-serif" font-size="12" fill="#7E879A" letter-spacing="3">167&#8211;169 GREAT PORTLAND STREET, W1W 5PF</text>
+</svg>
