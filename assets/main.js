@@ -54,3 +54,10 @@
     });
   });
 })();
+
+/* Favicon (emblema Brand Up) */
+(function(){
+  var l = document.createElement('link');
+  l.rel = 'icon'; l.type = 'image/svg+xml'; l.href = 'assets/favicon.svg';
+  document.head.appendChild(l);
+})();
