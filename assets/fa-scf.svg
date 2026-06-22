@@ -3,27 +3,25 @@
   <circle cx="480" cy="220" r="98" fill="#101B30"/>
   <text x="480" y="204" text-anchor="middle" fill="#fff" font-size="17" font-weight="700">Supply Chain</text>
   <text x="480" y="228" text-anchor="middle" fill="#fff" font-size="17" font-weight="700">Finance</text>
-  <text x="480" y="251" text-anchor="middle" fill="#BB9A5C" font-size="10">capitale circolante ottimizzato</text>
+  <text x="480" y="251" text-anchor="middle" fill="#BB9A5C" font-size="10">gestione del capitale circolante</text>
   <g>
     <rect x="60" y="170" width="190" height="100" rx="8" fill="#fff" stroke="#1B2A4A" stroke-width="1.5"/>
     <text x="155" y="208" text-anchor="middle" fill="#1B2A4A" font-size="17" font-weight="700">Fornitori</text>
-    <text x="155" y="232" text-anchor="middle" fill="#5C6068" font-size="12.5">pagati prima</text>
-    <text x="155" y="250" text-anchor="middle" fill="#5C6068" font-size="12.5">filiera più solida</text>
+    <text x="155" y="234" text-anchor="middle" fill="#5C6068" font-size="12.5">a monte della filiera</text>
   </g>
   <g>
     <rect x="710" y="170" width="190" height="100" rx="8" fill="#fff" stroke="#1B2A4A" stroke-width="1.5"/>
     <text x="805" y="208" text-anchor="middle" fill="#1B2A4A" font-size="17" font-weight="700">Clienti</text>
-    <text x="805" y="232" text-anchor="middle" fill="#5C6068" font-size="12.5">termini di pagamento</text>
-    <text x="805" y="250" text-anchor="middle" fill="#5C6068" font-size="12.5">più ampi</text>
+    <text x="805" y="234" text-anchor="middle" fill="#5C6068" font-size="12.5">a valle della filiera</text>
   </g>
   <g>
     <rect x="385" y="40" width="190" height="74" rx="8" fill="#9C7A3C"/>
     <text x="480" y="76" text-anchor="middle" fill="#fff" font-size="17" font-weight="700">La tua azienda</text>
-    <text x="480" y="98" text-anchor="middle" fill="#fff" font-size="12.5" opacity=".9">al centro della filiera</text>
+    <text x="480" y="98" text-anchor="middle" fill="#fff" font-size="12.5" opacity=".9">nella filiera</text>
   </g>
   <path d="M252 210 Q330 218 382 219" fill="none" stroke="#9C7A3C" stroke-width="2" marker-end="url(#a2)"/>
   <path d="M708 219 Q630 218 578 219" fill="none" stroke="#9C7A3C" stroke-width="2" marker-end="url(#a2)"/>
   <path d="M480 114 L480 120" fill="none" stroke="#9C7A3C" stroke-width="2" marker-end="url(#a2)"/>
-  <text x="480" y="400" text-anchor="middle" fill="#5C6068" font-size="13.5">Un'unica regia finanzia l'intera catena: tu incassi prima, i fornitori vengono pagati,</text>
-  <text x="480" y="420" text-anchor="middle" fill="#5C6068" font-size="13.5">i clienti ottengono dilazioni. Tutti più competitivi.</text>
+  <text x="480" y="400" text-anchor="middle" fill="#5C6068" font-size="13.5">Gestione del capitale circolante lungo la filiera: cessione di crediti e</text>
+  <text x="480" y="420" text-anchor="middle" fill="#5C6068" font-size="13.5">gestione dei termini di pagamento tra i soggetti coinvolti.</text>
 </svg>
